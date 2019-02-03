@@ -15,7 +15,7 @@ def index():
     popular_movies = get_movies('popular')
     upcoming_movies = get_movies('upcoming')
 
-    print(popular_movies)
+    # print(popular_movies)
     title = 'Home - Welcome to The best Movie Review Website Online'
     search_movie = request.args.get('movie_query')
 

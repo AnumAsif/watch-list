@@ -33,8 +33,7 @@ def process_results(movie_list):
     Args:
         movie_list: A list of dictionaries that contain movie details
 
-    Returns :' is not defined
-
+    Returns :
 
         movie_results: A list of movie objects
     '''

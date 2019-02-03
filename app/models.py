@@ -20,7 +20,7 @@ class Review:
         self.title = title
         self.imageurl = imageurl
         self.review = review
-
+\/rxYG6Sj95as9rv9wKIHUx6ATWd3.jpg
 
     def save_review(self):
         Review.all_reviews.append(self)
